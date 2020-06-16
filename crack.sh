@@ -1,7 +1,6 @@
 import requests
 import sys
 
-print "selamat datang"
 
 email = raw_input ("email>> ")
 url='https://free.facebook.com/login.php'
